@@ -2,7 +2,10 @@
 
 <div align="center">
 
-### 🚀 Quality Assurance Engineer | Software Quality Specialist | Test Automation Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&autocolor=gradient&text=Ricardo%20Fahham&reversal=false&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=twinkling" alt="header" width="100%"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Quality+Assurance+Engineer;Software+Quality+Specialist;Test+Automation+Enthusiast" alt="Typing animation" />
+
 
 *"Qualidade não é apenas encontrar defeitos. É construir confiança em cada entrega."*
 
@@ -103,9 +106,15 @@ Tenho experiência em todo o ciclo de testes, desde a análise de requisitos at�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoFahham\&show_icons=true\&theme=tokyonight)
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardo-fahham&theme=tokyonight" alt="GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFahham\&layout=compact\&theme=tokyonight)
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardo-fahham&theme=tokyonight" alt="Top languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-fahham&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardo-fahham&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Tudo%20sobre%20Qualidade%20de%20Software&section=footer&fontAlignY=70&fontSize=40" alt="footer" width="100%"/>
 
 </div>
 
@@ -113,11 +122,11 @@ Tenho experiência em todo o ciclo de testes, desde a análise de requisitos at�
 
 ## 🌎 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ricardo-fahham/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge\&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge\&logo=github)](https://github.com/ricardo-fahham)
 
-📧 [contato@ricardofahham.com](mailto:contato@ricardofahham.com)
+📧 [rfahham@gmail.com](mailto:rfahham@gmail.com)
 
 ---
 
